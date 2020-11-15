@@ -4,4 +4,3 @@ dependencies:
   - python=3.7.3
   - python-dateutil=2.8.1
   - requests=2.23.0
-  - pytz

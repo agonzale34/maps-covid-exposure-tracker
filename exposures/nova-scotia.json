@@ -33,27 +33,79 @@
           "end": "23:59",
           "lat": "44.6508034",
           "lon": "-63.6751368"
+        },
+        {
+          "name": "Glenholme Loop Petro Pass Restaurant",
+          "address": "3376 NS-4, Great Village, NS B0M 1L0",
+          "begin": "09:00",
+          "end": "12:00",
+          "lat": "45.4040257",
+          "lon": "-63.5353967"
         }
       ]
     },
     {
-      "date": "2020--",
+      "date": "2020-10-26",
       "locations": [
         {
-          "name": "",
-          "address": "",
-          "begin": "",
-          "end": "",
-          "lat": "",
-          "lon": ""
-        },
+          "name": "Gym: Fit4Less",
+          "address": "City Centre Atlantic, 1535 Dresden Row, Halifax, NS B3J 3T1",
+          "begin": "08:00",
+          "end": "10:00",
+          "lat": "44.6434664",
+          "lon": "-63.5780425"
+        }
+      ]
+    },
+    {
+      "date": "2020-10-27",
+      "locations": [
         {
-          "name": "",
-          "address": "",
-          "begin": "",
-          "end": "",
-          "lat": "",
-          "lon": ""
+          "name": "Store: Dollarama",
+          "address": "5201 Duke St, Halifax, NS B3J 1N9",
+          "begin": "12:00",
+          "end": "15:00",
+          "lat": "44.649692",
+          "lon": "-63.575646"
+        }
+      ]
+    },
+    {
+      "date": "2020-10-28",
+      "locations": [
+        {
+          "name": "Store: Dollarama",
+          "address": "5201 Duke St, Halifax, NS B3J 1N9",
+          "begin": "12:00",
+          "end": "15:00",
+          "lat": "44.649692",
+          "lon": "-63.575646"
+        }
+      ]
+    },
+    {
+      "date": "2020-10-29",
+      "locations": [
+        {
+          "name": "Store: Dollarama",
+          "address": "5201 Duke St, Halifax, NS B3J 1N9",
+          "begin": "12:00",
+          "end": "15:00",
+          "lat": "44.649692",
+          "lon": "-63.575646"
+        }
+      ]
+    },
+    {
+      "date": "2020-10-30",
+      "locations": [
+        {
+          "name": "Store: Dollarama",
+          "address": "5201 Duke St, Halifax, NS B3J 1N9",
+          "begin": "12:00",
+          "end": "15:00",
+          "lat": "44.649692",
+          "lon": "-63.575646"
         }
       ]
     },
@@ -61,12 +113,167 @@
       "date": "2020-10-31",
       "locations": [
         {
+          "name": "Real Fake Meats",
+          "address": "2278 Gottingen St, Halifax, NS B3K 0H2",
+          "begin": "16:00",
+          "end": "17:00",
+          "lat": "",
+          "lon": ""
+        },
+        {
           "name": "Antojo Tacos + Tequila",
           "address": "1667 Argyle St, Halifax, NS B3J 2B5",
           "begin": "18:00",
           "end": "21:00",
           "lat": "44.6466371",
           "lon": "-63.5743988"
+        }
+      ]
+    },
+    {
+      "date": "2020-11-01",
+      "locations": [
+        {
+          "name": "BMO Soccer Centre",
+          "address": "210 Thomas Raddall Dr, Halifax, NS B3S 0J2",
+          "begin": "18:00",
+          "end": "21:00",
+          "lat": "44.6569172",
+          "lon": "-63.6600456"
+        }
+      ]
+    },
+    {
+      "date": "2020-11-02",
+      "locations": [
+        {
+          "name": "Canada Games Center",
+          "address": "26 Thomas Raddall Dr, Halifax, NS B3S 0E2",
+          "begin": "09:30",
+          "end": "12:30",
+          "lat": "44.6596906",
+          "lon": "-63.6643346"
+        },
+        {
+          "name": "Bitter End Martini Bar & Restaurant",
+          "address": "1572 Argyle St, Halifax, NS B3J 2B3",
+          "begin": "21:00",
+          "end": "23:59",
+          "lat": "44.6453383",
+          "lon": "-63.5741155"
+        }
+      ]
+    },
+    {
+      "date": "2020-11-03",
+      "locations": [
+        {
+          "name": "Bitter End Martini Bar & Restaurant",
+          "address": "1572 Argyle St, Halifax, NS B3J 2B3",
+          "begin": "00:00",
+          "end": "02:00",
+          "lat": "44.6453383",
+          "lon": "-63.5741155"
+        },
+        {
+          "name": "Atlantic Superstore",
+          "address": "9 Braemar Dr, Dartmouth, NS B2Y 3H6",
+          "begin": "11:00",
+          "end": "13:00",
+          "lat": "44.680826",
+          "lon": "-63.548987"
+        },
+        {
+          "name": "Gym: Fit4Less",
+          "address": "1658 Bedford Hwy #190, Bedford, NS B4A 2X9",
+          "begin": "",
+          "end": "",
+          "lat": "44.7368494",
+          "lon": "-63.656202"
+        },
+        {
+          "name": "Sobeys Clayton Park",
+          "address": "287 Lacewood Dr, Halifax, NS B3M 3Y7",
+          "begin": "12:00",
+          "end": "13:00",
+          "lat": "44.6631016",
+          "lon": "-63.657242"
+        }
+      ]
+    },
+    {
+      "date": "2020-11-04",
+      "locations": [
+        {
+          "name": "MEC",
+          "address": "1550 Granville St, Halifax, NS B3J 1X1",
+          "begin": "16:30",
+          "end": "17:30",
+          "lat": "44.645605",
+          "lon": "-63.572708"
+        },
+        {
+          "name": "Gahan House",
+          "address": "5239 Sackville St, Halifax, NS B3J 3Y3",
+          "begin": "19:45",
+          "end": "23:45",
+          "lat": "44.6460372",
+          "lon": "-63.574787"
+        }
+      ]
+    },
+    {
+      "date": "2020-11-06",
+      "locations": [
+        {
+          "name": "Sobeys Mill Cove",
+          "address": "961 Bedford Hwy, Bedford, NS B4A 1A9",
+          "begin": "08:00",
+          "end": "22:00",
+          "lat": "44.7151539",
+          "lon": "-63.6756244"
+        },
+        {
+          "name": "NSLC Signature",
+          "address": "955 Bedford Hwy, Bedford, NS B4A 1A9",
+          "begin": "08:00",
+          "end": "21:00",
+          "lat": "44.7155192",
+          "lon": "-63.6754774"
+        }
+      ]
+    },
+    {
+      "date": "2020-11-07",
+      "locations": [
+        {
+          "name": "Aerobics First",
+          "address": "6166 Quinpool Rd, Halifax, NS B3L 1A3",
+          "begin": "13:00",
+          "end": "15:30",
+          "lat": "44.645876",
+          "lon": "-63.594993"
+        },
+        {
+          "name": "Atlantic Superstore",
+          "address": "1075 Barrington St, Halifax, NS B3H 2P8",
+          "begin": "09:00",
+          "end": "10:00",
+          "lat": "44.6380311",
+          "lon": "-63.5689762"
+        }
+      ]
+    },
+    {
+      "date": "2020-11-08",
+      "locations": [
+        {
+          "name": "Economy Shoe Shop",
+          "address": "1663 Argyle St, Halifax, NS B3J 2B5",
+          "begin": "20:30",
+          "end": "23:00",
+          "lat": "44.6464472",
+          "lon": "-63.5742861"
         },
         {
           "name": "",
@@ -75,6 +282,77 @@
           "end": "",
           "lat": "",
           "lon": ""
+        }
+      ]
+    },
+    {
+      "date": "2020-11-09",
+      "locations": [
+        {
+          "name": "Pet Valu",
+          "address": "5686 Spring Garden Rd, Halifax, NS B3J 1H4",
+          "begin": "17:30",
+          "end": "18:30",
+          "lat": "44.642193",
+          "lon": "-63.5792112"
+        },
+        {
+          "name": "East Preston Recreation Centre",
+          "address": "24 Brooks Dr, East Preston, NS B2Z 1G1",
+          "begin": "20:30",
+          "end": "23:00",
+          "lat": "44.7195701",
+          "lon": "-63.4339933"
+        },
+        {
+          "name": "Gym: John W. Lindsay YMCA",
+          "address": "5640 Sackville St, Halifax, NS B3J 3Y3",
+          "begin": "06:00",
+          "end": "08:00",
+          "lat": "44.644264",
+          "lon": "-63.5800951"
+        },
+        {
+          "name": "The Local Restaurant and Bar",
+          "address": "2037 Gottingen St, Halifax, NS B3K 3B1",
+          "begin": "16:00",
+          "end": "23:59",
+          "lat": "44.6511944",
+          "lon": "-63.5819417"
+        }
+      ]
+    },
+    {
+      "date": "2020-11-10",
+      "locations": [
+        {
+          "name": "The Local Restaurant and Bar",
+          "address": "2037 Gottingen St, Halifax, NS B3K 3B1",
+          "begin": "00:00",
+          "end": "02:00",
+          "lat": "44.6511944",
+          "lon": "-63.5819417"
+        },
+        {
+          "name": "Gym: John W. Lindsay YMCA",
+          "address": "5640 Sackville St, Halifax, NS B3J 3Y3",
+          "begin": "06:00",
+          "end": "08:00",
+          "lat": "44.644264",
+          "lon": "-63.5800951"
+        }
+      ]
+    },
+    {
+      "date": "2020-11-12",
+      "locations": [
+        {
+          "name": "Tim Hortons",
+          "address": "36 Verdi Dr, Bedford, NS B4A 0C2",
+          "begin": "06:30",
+          "end": "08:00",
+          "lat": "44.7494173",
+          "lon": "-63.6417536"
         }
       ]
     }
