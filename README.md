@@ -68,3 +68,5 @@ the `timelines` folder, process them and give you a list of possible exposures i
 
 the `exposures/nova-scotia.json` has the list with all the possible exposures from `2020-10-24`. I will try to update
 the file as much as possible. 
+
+[Source (novascotia.ca)](https://novascotia.ca/coronavirus/alerts-notices/#possible-exposures)
