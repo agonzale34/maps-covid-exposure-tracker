@@ -1,0 +1,87 @@
+{
+  "info": "Nova Scotia - Canada",
+  "timezone": "America/Halifax",
+  "exposures": [
+    {
+      "date": "2020-10-24",
+      "locations": [
+        {
+          "name": "Chrismaria Family Restaurant",
+          "address": "8934 Commercial St #104, New Minas, NS B4N 3C9",
+          "begin": "13:00",
+          "end": "17:00",
+          "lat": "45.0676395",
+          "lon": "-64.4640223"
+        }
+      ]
+    },
+    {
+      "date": "2020-10-25",
+      "locations": [
+        {
+          "name": "St. Andrew's United Church",
+          "address": "6036 Coburg Rd, Halifax, NS B3H 1Y9",
+          "begin": "18:00",
+          "end": "23:59",
+          "lat": "44.6397492",
+          "lon": "-63.587477"
+        },
+        {
+          "name": "Montana's BBQ and Bar",
+          "address": "196B Chain Lake Dr, Halifax, NS B3S 1C5",
+          "begin": "18:00",
+          "end": "23:59",
+          "lat": "44.6508034",
+          "lon": "-63.6751368"
+        }
+      ]
+    },
+    {
+      "date": "2020--",
+      "locations": [
+        {
+          "name": "",
+          "address": "",
+          "begin": "",
+          "end": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "name": "",
+          "address": "",
+          "begin": "",
+          "end": "",
+          "lat": "",
+          "lon": ""
+        }
+      ]
+    },
+    {
+      "date": "2020-10-31",
+      "locations": [
+        {
+          "name": "Antojo Tacos + Tequila",
+          "address": "1667 Argyle St, Halifax, NS B3J 2B5",
+          "begin": "18:00",
+          "end": "21:00",
+          "lat": "44.6466371",
+          "lon": "-63.5743988"
+        },
+        {
+          "name": "",
+          "address": "",
+          "begin": "",
+          "end": "",
+          "lat": "",
+          "lon": ""
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+
