@@ -26,7 +26,7 @@ def download_maps_timeline(year, month, day, cookie_jar):
     r = requests.get(get_map_url(year, month, day), cookies=cookie_jar)
     if r.status_code == 200:
         file_name = TIMELINE_FILE_TEMPLATE.format(year, month, day)
-        with open(file_name, 'w') as f:
+        with open(file_name, 'w', encoding='utf-8') as f:
             f.write(r.text)
             print("File", file_name, "stored successfully")
 
@@ -53,11 +53,18 @@ def process_exposure_day(date, exposures):
                         begin = dp.parse(location['begin'], default=default_date_time)
                         end = dp.parse(location['end'], default=default_date_time)
                         begin_place = dp.parse(time_span.getElementsByTagName('begin')[0].firstChild.data)
+                        end_place = dp.parse(time_span.getElementsByTagName('end')[0].firstChild.data)
                         if begin <= begin_place <= end:
                             possible_exposures.append({
                                 "name": place_name,
                                 "address": place_address,
                                 "start_time": begin_place
+                            })
+                        elif begin <= end_place <= end:
+                            possible_exposures.append({
+                                "name": place_name,
+                                "address": place_address,
+                                "start_time": end_place
                             })
 
     return possible_exposures
@@ -100,7 +107,7 @@ def run():
     print_line_separator()
     print('Checking all the timelines against the database:', exposure_file_path)
     # open the exposures file
-    with open(exposure_file_path, 'r') as read_file:
+    with open(exposure_file_path, 'r', encoding='utf-8') as read_file:
         exposures_data = json.load(read_file)
         all_possible_exposures = []
         # Iterate the timelines and validate against the exposures
