@@ -355,6 +355,19 @@
           "lon": "-63.6417536"
         }
       ]
+    },
+    {
+      "date": "2020-11-13",
+      "locations": [
+        {
+          "name": "GCR Tire & Service Centre",
+          "address": "42 Isnor Dr, Dartmouth, NS B3B 1W3",
+          "begin": "08:00",
+          "end": "10:00",
+          "lat": "44.7063794",
+          "lon": "-63.5982267"
+        }
+      ]
     }
   ]
 }
